@@ -1,0 +1,16 @@
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\Saber_Test.exe
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\Saber_Test.deps.json
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\Saber_Test.runtimeconfig.json
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\Saber_Test.runtimeconfig.dev.json
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\Saber_Test.dll
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\ref\Saber_Test.dll
+F:\REPOS\Programming\Saber_Test\Saber_Test\bin\Debug\net5.0\Saber_Test.pdb
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.csproj.AssemblyReference.cache
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.AssemblyInfoInputs.cache
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.AssemblyInfo.cs
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.csproj.CoreCompileInputs.cache
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.dll
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\ref\Saber_Test.dll
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.pdb
+F:\REPOS\Programming\Saber_Test\Saber_Test\obj\Debug\net5.0\Saber_Test.genruntimeconfig.cache
